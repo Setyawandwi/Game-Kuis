@@ -507,7 +507,7 @@ public class Responsi2 {
                       "13.APABILA JAWABAN ANDA BENAR MAKA , POIN YANG ANDA MILIKI AKAN DIKALI 3 , DAN AKAN MENJADI SKOR AKHIR ANDA\n"};
 
         System.out.println("PERATURAN DAN BANTUAN :");
-        for (int i = 0; i < 11; i++) {
+        for (int i = 0; i < a.length; i++) {
             System.out.println(a[i]);
         }
     }
